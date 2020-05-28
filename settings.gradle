@@ -1,0 +1,2 @@
+rootProject.name='MatchIt'
+include ':app', ':fbutton-1.0.5'

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MatchIt</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_a_user_login">Already a user ??? LOGIN</string>
+    <string name="login">LOGIN</string>
+    <string name="not_a_user_register">Not a user ??? REGISTER</string>
+    <string name="name">Name</string>
+    <string name="score">Recent Score</string>
+    <string name="logo">Logo</string>
+    <string name="timeup">Time Up</string>
+    <string name="play_game">Play Game</string>
+    <string name="time">20</string>
+    <string name="play_again">Play Again</string>
+    <string name="you_won">You Won</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="time_up">TIME UP</string>
+    <string name="correct">CORRECT</string>
+    <string name="next">next</string>
+    <string name="coin_image">Coin image</string>
+</resources>
